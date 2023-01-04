@@ -1,0 +1,5 @@
+djitellopy
+simple_pid
+keyboard
+matplotlib
+pandas

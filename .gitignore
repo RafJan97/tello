@@ -1,0 +1,4 @@
+tello_data_*
+__pycache__
+.idea
+*.png
